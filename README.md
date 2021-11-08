@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @karlkooku
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Full Stack Web Developer at Kooku
 
 <!---
 karlkooku/karlkooku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
